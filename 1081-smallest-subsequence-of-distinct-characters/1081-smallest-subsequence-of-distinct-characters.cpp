@@ -1,19 +1,19 @@
 class Solution {
 public:
     string smallestSubsequence(string s) {
-        unordered_map<char, int> mpp;
+        vector<int> mpp(26, 0);
         stack<char> st;
         vector<bool> seen(26, false);
         string ans = "";
         for(int i = 0; i < s.size(); i++){
-            mpp[s[i]] += 1;
+            mpp[s[i] - 'a'] += 1;
         }
         char c;
         for(int i = 0; i < s.size(); i++){
             c = s[i];
-            mpp[c]--;
+            mpp[c - 'a']--;
             if(seen[c - 'a']) continue;
-            while(!st.empty() && st.top() >= c && mpp[st.top()] > 0){
+            while(!st.empty() && st.top() >= c && mpp[st.top() - 'a'] > 0){
                 seen[st.top() - 'a'] = false;
                 st.pop();
             }
