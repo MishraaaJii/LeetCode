@@ -26,8 +26,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/MishraaaJii/LeetCode/tree/master/0495-teemo-attacking) |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 ## Simulation
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/MishraaaJii/LeetCode/tree/master/0495-teemo-attacking) |
+## Hash Table
+|  |
+| ------- |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
+## Prefix Sum
+|  |
+| ------- |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 <!---LeetCode Topics End-->
