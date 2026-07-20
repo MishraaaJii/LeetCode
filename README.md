@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/MishraaaJii/LeetCode/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/MishraaaJii/LeetCode/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MishraaaJii/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 ## Simulation
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3908-valid-digit-number](https://github.com/MishraaaJii/LeetCode/tree/master/3908-valid-digit-number) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MishraaaJii/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
