@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/MishraaaJii/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0493-reverse-pairs](https://github.com/MishraaaJii/LeetCode/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/MishraaaJii/LeetCode/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/MishraaaJii/LeetCode/tree/master/0493-reverse-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/MishraaaJii/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
