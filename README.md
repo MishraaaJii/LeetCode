@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/MishraaaJii/LeetCode/tree/master/0495-teemo-attacking) |
+| [1260-shift-2d-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 ## Simulation
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/MishraaaJii/LeetCode/tree/master/0495-teemo-attacking) |
+| [1260-shift-2d-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
