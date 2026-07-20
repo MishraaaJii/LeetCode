@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/MishraaaJii/LeetCode/tree/master/0040-combination-sum-ii) |
+## Math
+|  |
+| ------- |
+| [3908-valid-digit-number](https://github.com/MishraaaJii/LeetCode/tree/master/3908-valid-digit-number) |
 <!---LeetCode Topics End-->
