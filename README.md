@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/MishraaaJii/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0949-largest-time-for-given-digits](https://github.com/MishraaaJii/LeetCode/tree/master/0949-largest-time-for-given-digits) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/MishraaaJii/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MishraaaJii/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/MishraaaJii/LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/MishraaaJii/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0493-reverse-pairs](https://github.com/MishraaaJii/LeetCode/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/MishraaaJii/LeetCode/tree/master/0495-teemo-attacking) |
+| [0949-largest-time-for-given-digits](https://github.com/MishraaaJii/LeetCode/tree/master/0949-largest-time-for-given-digits) |
 | [1260-shift-2d-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MishraaaJii/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/MishraaaJii/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0949-largest-time-for-given-digits](https://github.com/MishraaaJii/LeetCode/tree/master/0949-largest-time-for-given-digits) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MishraaaJii/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [0949-largest-time-for-given-digits](https://github.com/MishraaaJii/LeetCode/tree/master/0949-largest-time-for-given-digits) |
 <!---LeetCode Topics End-->
