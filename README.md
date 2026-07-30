@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-largest-time-for-given-digits](https://github.com/MishraaaJii/LeetCode/tree/master/0949-largest-time-for-given-digits) |
 | [1260-shift-2d-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MishraaaJii/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1734-decode-xored-permutation](https://github.com/MishraaaJii/LeetCode/tree/master/1734-decode-xored-permutation) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MishraaaJii/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Simulation
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MishraaaJii/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1734-decode-xored-permutation](https://github.com/MishraaaJii/LeetCode/tree/master/1734-decode-xored-permutation) |
 ## Rolling Hash
 |  |
 | ------- |
