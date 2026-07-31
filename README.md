@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1734-decode-xored-permutation](https://github.com/MishraaaJii/LeetCode/tree/master/1734-decode-xored-permutation) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MishraaaJii/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/MishraaaJii/LeetCode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Simulation
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MishraaaJii/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/MishraaaJii/LeetCode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Enumeration
 |  |
 | ------- |
