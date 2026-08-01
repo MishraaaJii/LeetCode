@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MishraaaJii/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1734-decode-xored-permutation](https://github.com/MishraaaJii/LeetCode/tree/master/1734-decode-xored-permutation) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/MishraaaJii/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MishraaaJii/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/MishraaaJii/LeetCode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MishraaaJii/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MishraaaJii/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/MishraaaJii/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MishraaaJii/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/MishraaaJii/LeetCode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 ## Prefix Sum
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MishraaaJii/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1734-decode-xored-permutation](https://github.com/MishraaaJii/LeetCode/tree/master/1734-decode-xored-permutation) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MishraaaJii/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Rolling Hash
 |  |
 | ------- |
