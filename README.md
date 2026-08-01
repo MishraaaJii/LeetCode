@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/MishraaaJii/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0486-predict-the-winner](https://github.com/MishraaaJii/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/MishraaaJii/LeetCode/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/MishraaaJii/LeetCode/tree/master/0495-teemo-attacking) |
 | [0949-largest-time-for-given-digits](https://github.com/MishraaaJii/LeetCode/tree/master/0949-largest-time-for-given-digits) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/MishraaaJii/LeetCode/tree/master/0486-predict-the-winner) |
 | [3908-valid-digit-number](https://github.com/MishraaaJii/LeetCode/tree/master/3908-valid-digit-number) |
 ## Sorting
 |  |
@@ -126,9 +128,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/MishraaaJii/LeetCode/tree/master/0486-predict-the-winner) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MishraaaJii/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Counting
 |  |
 | ------- |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/MishraaaJii/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/MishraaaJii/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/MishraaaJii/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
