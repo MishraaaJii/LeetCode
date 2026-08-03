@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/MishraaaJii/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3361-shift-distance-between-two-strings](https://github.com/MishraaaJii/LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 | [3703-remove-k-balanced-substrings](https://github.com/MishraaaJii/LeetCode/tree/master/3703-remove-k-balanced-substrings) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/MishraaaJii/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/MishraaaJii/LeetCode/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3703-remove-k-balanced-substrings](https://github.com/MishraaaJii/LeetCode/tree/master/3703-remove-k-balanced-substrings) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/MishraaaJii/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MishraaaJii/LeetCode/tree/master/0486-predict-the-winner) |
+## Two Pointers
+|  |
+| ------- |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/MishraaaJii/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 <!---LeetCode Topics End-->
