@@ -8,11 +8,25 @@ public:
             if(nums[i] >= temp){
                 dp.push_back(nums[i]);
             } else {
-                int j = 0;
-                while(dp[j] <= nums[i]) j++;
-                dp[j] = nums[i];
+                dp[binarySearch(dp, nums[i])] = nums[i];
             }
         }
         return nums.size() - dp.size();
+    }
+    int binarySearch(vector<int>& dp, int num){
+        int start = 0;
+        int end = dp.size() - 1;
+        int mid;
+        int index = -1;
+        while(start <= end){
+            mid = (start + end)/2;
+            if(dp[mid] > num){
+                index = mid;
+                end = mid - 1;
+            } else {
+                start = mid + 1;
+            }
+        }
+        return index;
     }
 };
