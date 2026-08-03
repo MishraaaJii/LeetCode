@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/MishraaaJii/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MishraaaJii/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/MishraaaJii/LeetCode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
+| [2826-sorting-three-groups](https://github.com/MishraaaJii/LeetCode/tree/master/2826-sorting-three-groups) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3361-shift-distance-between-two-strings](https://github.com/MishraaaJii/LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MishraaaJii/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/MishraaaJii/LeetCode/tree/master/0493-reverse-pairs) |
+| [2826-sorting-three-groups](https://github.com/MishraaaJii/LeetCode/tree/master/2826-sorting-three-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MishraaaJii/LeetCode/tree/master/0486-predict-the-winner) |
+| [2826-sorting-three-groups](https://github.com/MishraaaJii/LeetCode/tree/master/2826-sorting-three-groups) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MishraaaJii/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Counting
 |  |
