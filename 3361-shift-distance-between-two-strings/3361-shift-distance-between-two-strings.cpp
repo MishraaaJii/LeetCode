@@ -2,7 +2,7 @@ class Solution {
 public:
     long long shiftDistance(string s, string t, vector<int>& nextCost, vector<int>& previousCost) {
         long long cost = 0;
-        vector<vector<long long>> costs(27, vector<long long>(27, 0));
+        vector<vector<long long>> costs(26, vector<long long>(26, 0));
         for(char i = 'a'; i <= 'z'; i++){
             for(char j = 'a'; j <= 'z'; j++){
                 if(i == j) continue;
