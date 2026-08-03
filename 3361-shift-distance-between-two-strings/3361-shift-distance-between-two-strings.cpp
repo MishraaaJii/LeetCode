@@ -2,32 +2,29 @@ class Solution {
 public:
     long long shiftDistance(string s, string t, vector<int>& nextCost, vector<int>& previousCost) {
         long long cost = 0;
-        vector<vector<long long>> costs(26, vector<long long>(26, 0));
+        vector<vector<long long>> costs(26, vector<long long>(26, INT_MAX));
         for(char i = 'a'; i <= 'z'; i++){
-            for(char j = 'a'; j <= 'z'; j++){
-                if(i == j) continue;
+            char curr = i;
 
-                char temp = i;
-                //prev
-                long long prev = 0;
-                while(i != j){
-                    prev += previousCost[i - 'a'];
-                    if(i == 'a') i = 'z';
-                    else i--;
-                }
-                i = temp;
-                //next
-                long long next = 0;
-                while(i != j){
-                    next += nextCost[i - 'a'];
-                    if(i == 'z') i = 'a';
-                    else i++;
-                }
-                i = temp;
+            //clockwise
+            long long cost = 0;
+            do{
+                cost += nextCost[curr - 'a'];
+                if(curr == 'z') curr = 'a';
+                else curr++;
+                costs[i - 'a'][curr - 'a'] = cost;
+            } while(curr != i);
 
-                costs[i - 'a'][j - 'a'] = min(prev, next);
-                
-            }
+            //counterclockwise
+            cost = 0;
+            curr = i;
+            do{
+                cost += previousCost[curr - 'a'];
+                if(curr == 'a') curr = 'z';
+                else curr--;
+                costs[i - 'a'][curr - 'a'] = min(costs[i - 'a'][curr - 'a'], cost);
+            } while(curr != i);
+            costs[i - 'a'][i - 'a'] = 0;
         }
 
         for(int i = 0; i < s.size(); i++){
