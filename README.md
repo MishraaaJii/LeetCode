@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/MishraaaJii/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MishraaaJii/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/MishraaaJii/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3361-shift-distance-between-two-strings](https://github.com/MishraaaJii/LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 | [3703-remove-k-balanced-substrings](https://github.com/MishraaaJii/LeetCode/tree/master/3703-remove-k-balanced-substrings) |
 ## Stack
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MishraaaJii/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/MishraaaJii/LeetCode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
+| [3361-shift-distance-between-two-strings](https://github.com/MishraaaJii/LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MishraaaJii/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/MishraaaJii/LeetCode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Simulation
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
+| [3361-shift-distance-between-two-strings](https://github.com/MishraaaJii/LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 ## Matrix
 |  |
 | ------- |
