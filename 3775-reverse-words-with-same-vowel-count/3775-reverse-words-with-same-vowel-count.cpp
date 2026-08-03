@@ -25,24 +25,18 @@ public:
             }
             if(j == s.size()) j--;
             ans += ' ';
-            ans += reverse(s, i, j, tempCount == count);
+            if(tempCount == count) ans += reverse(s, i, j);
+            else ans.append(s.begin() + i, s.begin() + j + 1);
             i = j + 1;
         }
 
         return ans;
     }
-    string reverse(string& original, int start, int end, bool flip){
+    string reverse(string& original, int start, int end){
         string temp = "";
-        if(flip){
-            while(end >= start){
-                temp += original[end];
-                end--;
-            }
-        } else {
-            while(start <= end){
-                temp += original[start];
-                start++;
-            }
+        while(end >= start){
+            temp += original[end];
+            end--;
         }
         return temp;
     }
