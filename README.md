@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MishraaaJii/LeetCode/tree/master/0486-predict-the-winner) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MishraaaJii/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3908-valid-digit-number](https://github.com/MishraaaJii/LeetCode/tree/master/3908-valid-digit-number) |
 ## Sorting
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0949-largest-time-for-given-digits](https://github.com/MishraaaJii/LeetCode/tree/master/0949-largest-time-for-given-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MishraaaJii/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
