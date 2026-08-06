@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/MishraaaJii/LeetCode/tree/master/0495-teemo-attacking) |
 | [0949-largest-time-for-given-digits](https://github.com/MishraaaJii/LeetCode/tree/master/0949-largest-time-for-given-digits) |
 | [1260-shift-2d-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MishraaaJii/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1734-decode-xored-permutation](https://github.com/MishraaaJii/LeetCode/tree/master/1734-decode-xored-permutation) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/MishraaaJii/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/MishraaaJii/LeetCode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MishraaaJii/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Bit Manipulation
@@ -159,4 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/MishraaaJii/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
+## Depth-First Search
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
