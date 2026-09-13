@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3361-shift-distance-between-two-strings](https://github.com/MishraaaJii/LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MishraaaJii/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/MishraaaJii/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/MishraaaJii/LeetCode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Simulation
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MishraaaJii/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/MishraaaJii/LeetCode/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MishraaaJii/LeetCode/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/MishraaaJii/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/MishraaaJii/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/MishraaaJii/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Recursion
 |  |
 | ------- |
