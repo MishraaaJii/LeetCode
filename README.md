@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/MishraaaJii/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -175,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MishraaaJii/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/MishraaaJii/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/MishraaaJii/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
